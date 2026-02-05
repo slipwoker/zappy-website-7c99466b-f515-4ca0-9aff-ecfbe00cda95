@@ -1,0 +1,53 @@
+# צ'יק צ'ק משלוחים — Generative Engine Optimization Map
+
+> A משלוחים ולוגיסטיקה business.
+
+---
+
+## Pages
+
+### Home
+https://-7c99466b.zappy5.app
+
+### Services
+https://-7c99466b.zappy5.app/services
+
+### About
+https://-7c99466b.zappy5.app/about
+
+### Contact
+https://-7c99466b.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7c99466b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7c99466b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7c99466b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About צ'יק צ'ק משלוחים
+צ'יק צ'ק משלוחים is a business in the משלוחים ולוגיסטיקה industry.
+
+## Target Audience
+תושבי פתח תקווה
+
+## Industry
+משלוחים ולוגיסטיקה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-7c99466b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-7c99466b.zappy5.app/robots.txt
